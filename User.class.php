@@ -11,7 +11,7 @@
 class User {
     private $dbHost     = "localhost";
     private $dbUsername = "root";
-    private $dbPassword = "root";
+    private $dbPassword = "";
     private $dbName     = "web_login";
     private $userTbl    = 'users';
     
